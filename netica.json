@@ -1,0 +1,7 @@
+{
+   "links": [
+    {"source": "Commits_Crime", "target": 7},
+    {"source": "Drinks", "target": 4},
+    {"source": "Doesn't Drink", "target": 3}]
+
+}
